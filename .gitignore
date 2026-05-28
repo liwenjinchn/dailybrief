@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment
+.env
+.env.local
+
+# Dependencies (if any added later)
+node_modules/
+
+# Build output (not used in MVP, but reserved)
+dist/
+build/
+
+# Trellis workspace (internal)
+.trellis/
